@@ -53,7 +53,7 @@ input[type="checkbox"]{
 }
 
 .close-btn:hover{
-    color: red;
+    color: rgb(72, 170, 250);
 }
 
 h1{
